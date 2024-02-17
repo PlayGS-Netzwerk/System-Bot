@@ -1,5 +1,3 @@
-# Minecraft Netzwerk Discord Bot
-
 ![Node.js](https://img.shields.io/badge/Node.js-Programmierung-black?style=for-the-badge&logo=node.js)
 ![EJS](https://img.shields.io/badge/EJS-Vorlage-black?style=for-the-badge&logo=ejs)
 ![CSS](https://img.shields.io/badge/CSS-Styling-black?style=for-the-badge&logo=css3)
